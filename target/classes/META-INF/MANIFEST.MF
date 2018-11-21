@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Items_SKU_Spring_Boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: crt04
+Implementation-Vendor-Id: Items_SKU_Spring_Boot
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Items_SKU_Spring_Boot
+Created-By: Maven Integration for Eclipse
+
